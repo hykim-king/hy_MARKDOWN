@@ -1,6 +1,13 @@
 # hy_MARKDOWN
 hy_MARKDOWN
 
+## 이미지 넣기  
+
+
+## 강조  
+굵게 표시 : **오늘은 즐거운 금요일 이야호**  
+굵게 표시 : __오늘은 즐거운 금요일 이야호__    
+
 ## 하이퍼링크  
 [pcwk](https://cafe.daum.net/pcwk "PCWK CAFE")
 
